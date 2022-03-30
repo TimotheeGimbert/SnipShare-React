@@ -25,9 +25,9 @@ A la manière d'Instagram ou Tiktok, **Snipshare** est un réseau social de part
 
 ## Liens utiles
 
-[Repo du backend](https://github.com/pierre-pellegrino/sharincode-api)<br/>
+[Découvrire Snipshare sur le net](https://www.snipsha.re)
 [Lien de l'API](https://snipshare-api.herokuapp.com/)<br/>
-[Live Site](https://www.snipsha.re)
+[Repo du backend](https://github.com/TimotheeGimbert/Snipshare-api)<br/>
 
 ## Features
 
